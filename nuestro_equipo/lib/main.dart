@@ -23,7 +23,7 @@ class AppEquipo extends StatelessWidget{
           children: [
             Card(
               child: Padding(
-                padding: const EdgeInsets.all(12)),
+                padding: const EdgeInsets.all(12),
                 child: Row(
                   children: [
                     const CircleAvatar(
@@ -54,12 +54,12 @@ class AppEquipo extends StatelessWidget{
 
                       ],
                     )
-
+              )
             ),
 
             Card(
               child: Padding(
-                padding: const EdgeInsets.all(12)),
+                padding: const EdgeInsets.all(12),
                 child: Row(
                   children: [
                     const CircleAvatar(
@@ -90,7 +90,7 @@ class AppEquipo extends StatelessWidget{
 
                       ],
                     )
-
+              )
             )
                   ],
                 ),
