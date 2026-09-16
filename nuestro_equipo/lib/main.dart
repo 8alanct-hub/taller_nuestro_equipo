@@ -28,8 +28,7 @@ class AppEquipo extends StatelessWidget{
                   children: [
                     const CircleAvatar(
                       radius: 30,
-                      backgroundColor: Color(0xFFDBE8FB),
-                      child: Text('A'),
+                      backgroundImage: AssetImage('assets/alan.jpeg'),
                     ),
                     const SizedBox(width: 12),
 
@@ -45,7 +44,7 @@ class AppEquipo extends StatelessWidget{
                           style: TextStyle(color: Colors.blue),
                           ),
                         Text(
-                          'Soy Yo',
+                          'Se me olvido el cargador del portatil',
                           style: TextStyle(color: Colors.grey, fontSize: 14),
                           ),
                           
@@ -64,8 +63,7 @@ class AppEquipo extends StatelessWidget{
                   children: [
                     const CircleAvatar(
                       radius: 30,
-                      backgroundColor: Color(0xFFDBE8FB),
-                      child: Text('A'),
+                      backgroundImage: AssetImage('assets/alvaro.jpeg'),
                     ),
                     const SizedBox(width: 12),
 
