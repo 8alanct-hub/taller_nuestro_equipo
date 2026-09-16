@@ -1,0 +1,6 @@
+flutter:
+    uses-material-desing: true
+
+    assets:
+        - assets/alan.jpeg
+        - assets/alvaro.jpeg
