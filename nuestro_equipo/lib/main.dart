@@ -28,7 +28,7 @@ class AppEquipo extends StatelessWidget{
                   children: [
                     const CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage('assets/alan.jpeg'),
+                      backgroundImage: AssetImage('assets/alan.jpg'),
                     ),
                     const SizedBox(width: 12),
 
@@ -63,7 +63,7 @@ class AppEquipo extends StatelessWidget{
                   children: [
                     const CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage('assets/alvaro.jpeg'),
+                      backgroundImage: AssetImage('assets/alvaro.jpg'),
                     ),
                     const SizedBox(width: 12),
 
